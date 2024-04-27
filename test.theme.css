@@ -56,11 +56,11 @@
   .form_d8a4a1 .channelTextArea_c2094b .textArea_a86690 .placeholder__443e5 {
     color: var(--darkplus-sec);
   }
-  .form_d8a4a1 .channelTextArea_c2094b .scrollableContainer_ff917f {
+  /* .form_d8a4a1 .channelTextArea_c2094b .scrollableContainer_ff917f {
     max-height: 45vh;
     background-color: var(--darkplus-bg2);
     border-radius: 22px;
-  }
+  } */
   .form_d8a4a1 .channelTextArea_c2094b {
     background-color: transparent;
   }
